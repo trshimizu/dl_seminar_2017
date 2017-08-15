@@ -1,5 +1,7 @@
 # dl_seminar_2017
 
+※ 8/15 本日の演習用マテリアル、準備完了しています。ダウンロードの方 よろしくお願いいたします。
+
 - 8/15 第２回 資料
    - https://www.dropbox.com/s/2aiow0undfx2z3t/deep_learning_2.pdf?dl=0
 - 8/1 第１回 資料
