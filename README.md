@@ -4,19 +4,19 @@
 - macOS
    - Launchpad -> その他 から ターミナルを起動
    - その中でコマンド実行：
-      - conda install -c conda-forge tensorflow
+      - ```conda install -c conda-forge tensorflow```
    - ※ もし command not found などと出てきてしまう場合は、以下のようにディレクトリを移動し
-      - cd （Anacondaをインストールしたディレクトリ）/anaconda/bin
+      - ```cd （Anacondaをインストールしたディレクトリ）/anaconda/bin```
    - そこで再度 インストールコマンド実行
-      - ./conda install -c conda-forge tensorflow
+      - ```./conda install -c conda-forge tensorflow```
 - Windows
    - スタートメニューから Anaconda Promptを起動
    - その中でコマンド実行：
-      - conda install -c conda-forge tensorflow
+      - ```conda install -c conda-forge tensorflow```
 - 確認方法（macOS、Windows共通）
    - jupyter notebookを立ち上げ、以下を実行して '1.2.1' など、1.0以上のバージョンが表示されればOK
-      - import tensorflow as tf
-      - tf.__version__
+      - ```import tensorflow as tf```
+      - ```tf.__version__```
 
 #### セミナー資料
 - 8/15 第２回 資料
