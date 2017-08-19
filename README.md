@@ -5,9 +5,8 @@
    - Launchpad -> その他 から ターミナルを起動
    - その中でコマンド実行：
       - ```conda install -c conda-forge tensorflow```
-   - ※ もし command not found などと出てきてしまう場合は、以下のようにディレクトリを移動し
+   - ※ もし command not found などと出てきてしまう場合は、以下のようにディレクトリを移動し、そこで再度 インストールコマンド実行
       - ```cd （Anacondaをインストールしたディレクトリ）/anaconda/bin```
-   - そこで再度 インストールコマンド実行
       - ```./conda install -c conda-forge tensorflow```
 - Windows
    - スタートメニューから Anaconda Promptを起動
