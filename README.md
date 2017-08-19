@@ -15,7 +15,8 @@
 - 確認方法（macOS、Windows共通）
    - jupyter notebookを立ち上げ、以下を実行して '1.2.1' など、1.0以上のバージョンが表示されればOK
       - ```import tensorflow as tf```
-      - ```tf.__version__```
+      - ```tf.__version__```    
+- ※ pipでパッケージを管理されている場合は、```pip install tensorflow``` でも大丈夫です
 
 #### セミナー資料
 - 8/15 第２回 資料
