@@ -20,6 +20,9 @@
    - ※ pipでパッケージを管理されている場合は、```pip install tensorflow``` でも大丈夫です
 
 #### セミナー資料
+- 8/29 第３回 資料（ドラフト版）
+   - https://www.dropbox.com/s/0no8zlw07vjm7dd/deep_learning_3.pdf?dl=0
+      - 8/20： 予習用 ドラフト版です。後半パートにスライドを追加する予定ですが、「用語整理」、「ニューラルネットワークの微分計算、backpropagation」のセクションは概ね完成。
 - 8/15 第２回 資料
    - https://www.dropbox.com/s/2aiow0undfx2z3t/deep_learning_2.pdf?dl=0
       - 8/19： 全体の構成を分かりやすくするため、セクションタイトル的なページを追加。
