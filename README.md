@@ -36,6 +36,6 @@
    - あるいは（githubに慣れてる方でしたら）clone機能を使って取得していただく選択肢もあります。
    
 #### license
-- 資料については CC-BY-4.0 とします。
+- 資料については CC-BY-4.0、演習用コードについては public domainとします。
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
