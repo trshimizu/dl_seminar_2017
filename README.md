@@ -1,37 +1,35 @@
 # dl_seminar_2017
 
-#### TensorFlow インストールについて
-- macOS
-   - Launchpad -> その他 から ターミナルを起動
-   - その中でコマンド実行：
-      - ```conda install -c conda-forge tensorflow```
-   - ※ もし command not found などと出てきてしまう場合は、以下のようにディレクトリを移動し、そこで再度 インストールコマンド実行
-      - ```cd （Anacondaをインストールしたディレクトリ）/anaconda/bin```
-      - ```./conda install -c conda-forge tensorflow```
-- Windows
-   - スタートメニューから Anaconda Promptを起動
-   - その中でコマンド実行：
-      - ```conda install -c conda-forge tensorflow```
-- 確認方法（macOS、Windows共通）
-   - jupyter notebookを立ち上げ、以下を実行して '1.2.1' など、1.0以上のバージョンが表示されればOK
-      - ```import tensorflow as tf```
-      - ```tf.__version__```    
-- その他
-   - ※ pipでパッケージを管理されている場合は、```pip install tensorflow``` でも大丈夫です
-
 #### セミナー資料
+- 9/15 第４回 資料
+   - https://www.dropbox.com/s/aso3tu0illfghun/deep_learning_4.pdf?dl=0
 - 8/29 第３回 資料
    - https://www.dropbox.com/s/0no8zlw07vjm7dd/deep_learning_3.pdf?dl=0
-      - 8/20： 予習用 ドラフト版です。この後もスライドを追加する予定ですが、「用語整理」「ニューラルネットワークの微分計算、backpropagation」のセクションは概ね完成。
-      - 8/27： ドラフト更新。数式や説明内容をシンプルにするため、ニューラルネットワークの微分計算について、複数データについて平均した J ではなく、1レコードあたりの j を起点とする形に変更。他、forwardの計算・backwardの計算の全体像、分類問題のコスト値のセクション等を追加しました。
-      - 8/28： 完成版 公開
-      - 8/29： 演習用コード・データ、セミナー中に使うものは一通りupしました。（おまけ的なコードをあと1、2本 追加するかもしれません。）
+      - 8/29： p.58、コスト値の式の具体例を修正
 - 8/15 第２回 資料
    - https://www.dropbox.com/s/2aiow0undfx2z3t/deep_learning_2.pdf?dl=0
 - 8/1 第１回 資料
    - https://www.dropbox.com/s/2lmwx3ww3kv9491/deep_learning_1.pdf?dl=0
 
 #### memo
+- TensorFlow インストールについて
+   - macOS
+      - Launchpad -> その他 から ターミナルを起動
+      - その中でコマンド実行：
+         - ```conda install -c conda-forge tensorflow```
+      - ※ もし command not found などと出てきてしまう場合は、以下のようにディレクトリを移動し、そこで再度 インストールコマンド実行
+         - ```cd （Anacondaをインストールしたディレクトリ）/anaconda/bin```
+         - ```./conda install -c conda-forge tensorflow```
+   - Windows
+      - スタートメニューから Anaconda Promptを起動
+      - その中でコマンド実行：
+         - ```conda install -c conda-forge tensorflow```
+   - 確認方法（macOS、Windows共通）
+      - jupyter notebookを立ち上げ、以下を実行して '1.2.1' など、1.0以上のバージョンが表示されればOK
+         - ```import tensorflow as tf```
+         - ```tf.__version__```    
+   - その他
+      - ※ pipでパッケージを管理されている場合は、```pip install tensorflow``` でも大丈夫です
 - jupyter notebookをダウンロードする際、github.com上で表示されているファイルのリンクを辿る形だと、htmlとしてダウンロードされてしまう等 上手く取得できないことが予想されます。この画面右上の緑色の「Clone or download」ボタンを押して、「Download ZIP」を選ぶことで必要なファイルをまるごと確実に取得できます。 
    - あるいは（githubに慣れてる方でしたら）clone機能を使って取得していただく選択肢もあります。
    
