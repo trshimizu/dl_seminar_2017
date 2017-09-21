@@ -1,5 +1,8 @@
 # dl_seminar_2017
 
+#### お知らせ
+- 01/ 〜 04/ のディレクトリに、各 jupyter notebookについての説明を付けました
+
 #### セミナー資料
 - 9/15 第４回 資料
    - https://www.dropbox.com/s/aso3tu0illfghun/deep_learning_4.pdf?dl=0
