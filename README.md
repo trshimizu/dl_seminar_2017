@@ -4,11 +4,12 @@
 - 01/ 〜 04/ のディレクトリに、各 jupyter notebookについての説明を付けました
 
 #### セミナー資料
+- 9/26 第５回 資料（ドラフト版）
+   - https://www.dropbox.com/s/pkxkd8wjkc589rk/deep_learning_5.pdf?dl=0
 - 9/15 第４回 資料
    - https://www.dropbox.com/s/aso3tu0illfghun/deep_learning_4.pdf?dl=0
 - 8/29 第３回 資料
    - https://www.dropbox.com/s/0no8zlw07vjm7dd/deep_learning_3.pdf?dl=0
-      - 8/29： p.58、コスト値の式の具体例を修正
 - 8/15 第２回 資料
    - https://www.dropbox.com/s/2aiow0undfx2z3t/deep_learning_2.pdf?dl=0
 - 8/1 第１回 資料
