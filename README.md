@@ -4,7 +4,7 @@
 - 01/ 〜 04/ のディレクトリに、各 jupyter notebookについての説明を付けました
 
 #### セミナー資料
-- 9/26 第５回 資料（ドラフト版）
+- 9/26 第５回 資料
    - https://www.dropbox.com/s/pkxkd8wjkc589rk/deep_learning_5.pdf?dl=0
 - 9/15 第４回 資料
    - https://www.dropbox.com/s/aso3tu0illfghun/deep_learning_4.pdf?dl=0
