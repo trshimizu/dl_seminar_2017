@@ -6,6 +6,7 @@
 #### セミナー資料
 - 9/26 第５回 資料
    - https://www.dropbox.com/s/pkxkd8wjkc589rk/deep_learning_5.pdf?dl=0
+   - mnist data: https://www.dropbox.com/s/iruiklt5ted91sc/mnist_comp.npz?dl=1
 - 9/15 第４回 資料
    - https://www.dropbox.com/s/aso3tu0illfghun/deep_learning_4.pdf?dl=0
 - 8/29 第３回 資料
