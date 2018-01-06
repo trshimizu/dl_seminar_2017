@@ -1,10 +1,5 @@
 # dl_seminar_2017
 
-#### お知らせ
-- 第６回の演習ファイル、修正しました。あわせて第６回分の演習ファイル一覧追加
-   - simple_rnn.ipynbの4番目の例について、問題設定を本来の正しいものに変更
-   - learning_simple_rnn.ipynbの、コメント中に書いてある Wr、Wiのターゲットとなる値を修正
-
 #### セミナー資料
 - 8/1 第１回 資料
    - https://www.dropbox.com/s/2lmwx3ww3kv9491/deep_learning_1.pdf?dl=1
