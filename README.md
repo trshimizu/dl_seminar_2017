@@ -2,17 +2,17 @@
 
 #### セミナー資料
 - 8/1 第１回 資料
-   - https://www.dropbox.com/s/2lmwx3ww3kv9491/deep_learning_1.pdf?dl=1
+   - https://1drv.ms/b/s!AguvnfZwI81sgphmCz0ETLudVmI9Ag?e=4QYLUj
 - 8/15 第２回 資料
-   - https://www.dropbox.com/s/2aiow0undfx2z3t/deep_learning_2.pdf?dl=1
+   - https://1drv.ms/b/s!AguvnfZwI81sgphkVecmNt-K0HWmAg?e=LhIQbl
 - 8/29 第３回 資料
-   - https://www.dropbox.com/s/0no8zlw07vjm7dd/deep_learning_3.pdf?dl=1
+   - https://1drv.ms/b/s!AguvnfZwI81sgphoGezdEOPGzZSX-w?e=6o08v0
 - 9/15 第４回 資料
-   - https://www.dropbox.com/s/aso3tu0illfghun/deep_learning_4.pdf?dl=1
+   - https://1drv.ms/b/s!AguvnfZwI81sgphu-WUjz56h9xqAdw?e=ITc59Q
 - 9/26 第５回 資料
-   - https://www.dropbox.com/s/pkxkd8wjkc589rk/deep_learning_5.pdf?dl=1
+   - https://1drv.ms/b/s!AguvnfZwI81sgphrx6RZOkeLA153JA?e=CZUJTc
 - 10/10 第６回 資料
-   - https://www.dropbox.com/s/xvbkgoc967n2dje/deep_learning_6.pdf?dl=1
+   - https://1drv.ms/b/s!AguvnfZwI81sgphw2kgEKcQeXDGiFg?e=YubGFh
 
 #### memo
 - TensorFlow インストールについて
